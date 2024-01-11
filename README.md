@@ -1,2 +1,2 @@
 # MomentoCerto
-Uma API para guardar dados que te ajude a determinar o momento certo de comprar um produto.
+Uma API para guardar dados que te ajudem a determinar o momento certo de comprar um produto.
